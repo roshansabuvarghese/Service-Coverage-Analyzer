@@ -1,0 +1,8 @@
+analyzer/CoverageSummaryAnalyzer$PackageCoverage.class
+Main.class
+analyzer/CoverageSummaryAnalyzer$ClassCoverage.class
+analyzer/CoverageSummaryAnalyzer$Counter.class
+reporter/MarkdownReporter$ClassRow.class
+reporter/MarkdownReporter.class
+analyzer/TestCoverageAnalyzer.class
+analyzer/CoverageSummaryAnalyzer.class
